@@ -1,0 +1,13 @@
+BSC|BSC.sql
+BTS|BTS.sql
+CELL|CELL.sql
+DH_ROOM|DH_ROOM.sql
+ENODEB|ENODEB.sql
+EUTRANCELL|EUTRANCELL.sql
+GNODEB|GNODEB.sql
+NRCELLDU|NRCELLDU.sql
+RRU|RRU.sql
+机房|jf.sql
+站点|zd.sql
+位置点|zyd.sql
+#三方小站|sfstation.sql
